@@ -1,9 +1,9 @@
 ### Hi there, I'm Viktoriia and I love to learn 👋
 
 <!--
-**vovsiienko/vovsiienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**vovsiienko/vovsiienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  -->
 
 - 🔭 I’m currently working on a very special project!
 - 🌱 I’m currently learning ...
