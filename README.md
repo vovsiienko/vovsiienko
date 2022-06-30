@@ -1,4 +1,4 @@
-### Hi there, Im Viktoriia and I love to learn 👋
+### Hi there, I'm Viktoriia and I love to learn 👋
 
 <!--
 **vovsiienko/vovsiienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
